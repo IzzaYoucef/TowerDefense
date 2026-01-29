@@ -1,8 +1,0 @@
-{
-    "java.project.sourcePaths": [
-        "Tower_Defense/src",
-        "Tower_Defense/test"
-    ],
-    "java.project.referencedLibraries": [
-    ]
-}
